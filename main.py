@@ -1,4 +1,4 @@
-from transliterate import translit, get_available_language_codes
+from transliterate import translit
 from num2words import num2words
 
 text = """Ladies and gentlemen, I'm 78 years old and I finally got \
